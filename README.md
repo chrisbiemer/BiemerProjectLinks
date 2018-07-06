@@ -1,5 +1,5 @@
-### projectLinkDump
-# Live Code and Non-Code Projects
+# projectLinkDump
+### Live Code and Non-Code Projects
 
 Hokusai Memory Game Built w/ React.js, jQuery, Bootstrap: 
 https://powerful-river-43014.herokuapp.com/
