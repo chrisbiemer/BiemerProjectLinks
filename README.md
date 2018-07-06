@@ -58,6 +58,9 @@ https://drive.google.com/file/d/167fGQ83rn2F_A2deBPYFgaYdWgnwUow0/view?usp=shari
 Powerpoint on the Surrealist Movement for a Public Speech
 https://drive.google.com/file/d/1evO4ikX63j3ToWA3SqlwY-SGPOWrv0Tm/view?usp=sharing
 
+Tableau Data Visuals for Assisting In-Field Sales Aimed @ a Target Physician turned Client
+(TABS: Patient Concentration vs. Zipcode, Zipcode Median Household Income vs. Zipcode)
+https://public.tableau.com/profile/chris.biemer#!/vizhome/10orGreater/zipxconc
 
 
 
