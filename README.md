@@ -62,6 +62,8 @@ Tableau Data Visuals for Assisting In-Field Sales Aimed @ a Target Physician tur
 (TABS: Patient Concentration vs. Zipcode, Zipcode Median Household Income vs. Zipcode)
 https://public.tableau.com/profile/chris.biemer#!/vizhome/10orGreater/zipxconc
 
+Promotional Video PR Snippet Edited by Myself (Film by Friendly Human)
+https://www.youtube.com/watch?v=Uln7wJ6VzTY
 
 
 
