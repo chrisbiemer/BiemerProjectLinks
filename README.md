@@ -1,6 +1,6 @@
 # projectLinkDump
 
-### PYTHON.py
+### Python.py
 
 Polynomial Builder, Up to 2nd Order Derivative Calculator, & Indefinite/Definite Integral Calculator: https://github.com/chrisbmwchi/derivativeIntegralCalculator
 
@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1b0COcqmRkpXYtIpu3i1pV22KlV4VkKCR/view?usp=shari
 w/ Powerpoint for Explanation of Physician Success Indicators:
 https://drive.google.com/file/d/1W6nx1kESM8-JvzK79imZnMaZcAkrjZ_i/view?usp=sharing
 
-### JAVASCRIPT.js
+### Javascript.js
 
 Hokusai Memory Game Built w/ React.js, jQuery, Bootstrap: 
 https://powerful-river-43014.herokuapp.com/
