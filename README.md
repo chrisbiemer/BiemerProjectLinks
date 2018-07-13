@@ -23,8 +23,9 @@ https://chrisbmwchi.github.io/triviaGame/
 GameOn: Team-Built Full-Stack Web Application for Setting Up Local Pickup Sports Games
 https://game-on-listing.herokuapp.com/index
 
-CrayonBox: Team Powerpoint for a Local Event Finder Application Built With Eventbrite, Leaflet, Zomato & APIXU:
-https://docs.google.com/presentation/d/1Ig_BO1POaCZyc9tmoBpqw5L6xadfkJVO1Qg_2vA1DoM/edit?usp=sharing
+CrayonBox: Local Event Finder Application Built With Eventbrite, Leaflet, Zomato & APIXU:
+WEBSITE: https://group1-project1.github.io/CrayonBox/ 
+POWERPOINT: https://docs.google.com/presentation/d/1Ig_BO1POaCZyc9tmoBpqw5L6xadfkJVO1Qg_2vA1DoM/edit?usp=sharing
 
 Video Walkthrough for a Node.js Command-Line-Based Storefront Application:
 https://drive.google.com/file/d/1mAGaZuyvLrAkQIz3GA3ropTyCVaUkUnY/view?usp=sharing
