@@ -1,10 +1,12 @@
-# projectLinkDump
+# BiemerProjectLinks
+
+*This text contains a limited view of the work, school and personal projects that I have been involved in up to this date. Click on any of the links to learn more. If you'd like to view more work of a certain type, send inquiries to chrisbiemer@ymail.com. Thank you for looking around!
 
 ### Resume
 
 <ul>
   <li>
-    https://drive.google.com/open?id=1uGZ5d9tvHnkyCu4xUG8E-IgXbQCX2MUj
+   Most Recent Version HERE: https://drive.google.com/open?id=1uGZ5d9tvHnkyCu4xUG8E-IgXbQCX2MUj
   </li>
   </ul>
 
@@ -107,53 +109,149 @@ Industry Clusters in Austin, Texas (One paper out of a series I was involved in)
   <li>Google Docs link HERE: https://drive.google.com/file/d/1uNZSmaOU3JqLI8NDzz40Vvg2bLsiD-Mr/view?usp=sharing </li>
   </ul>
 
+Term Paper Arguing Against the Practice of Solitary Confinement:
+  <ul>
+  <li>https://drive.google.com/open?id=141hARTMDwqShkKdUwh2sEcKAv14vTJJs </li>
+  </ul>
+
 The Seafoam at the Crest of a Wave (Original poetry book in to-be-bound format):
   <ul>
   <li>Google Docs link HERE: https://drive.google.com/file/d/15WgykszV_-iTZ7aGQRZmSpMrzOboNMt8/view?usp=sharing </li>
   </ul>
 
-### Additional Media
+### Powerpoint Presentations
 
 Powerpoint on the Surrealist Movement for a Public Speech:
   <ul>
   <li>Google Slides link HERE: https://drive.google.com/file/d/1evO4ikX63j3ToWA3SqlwY-SGPOWrv0Tm/view?usp=sharing </li>
   </ul>
-
-Promotional Video PR Snippet Edited by Myself (Filmed by Friendly Human, Edited in House by Specialdocs):
+  
+Powerpoint on Contemporary Digital Recording for a Public Speech:
   <ul>
-  <li>Youtube link HERE: https://www.youtube.com/watch?v=Uln7wJ6VzTY </li>
+    <li>
+      Google Slides link HERE: https://drive.google.com/open?id=1rOtpM5gi6zbExuRz08ym12UlL6zM3Ylh
+    </li>
   </ul>
+
+Powerpoint on Dracunculiasis for a Public Speech:
+<ul>
+  <li>
+    Google Slides link HERE: https://drive.google.com/open?id=1U3bLIJlwkytfW4f5yqXoJSE1bGOiuGAI
+  </li>
+  </ul>
+  
+Powerpoint on Capsicum Chinense for a Public Speech:
+<ul>
+  <li>
+    Google Slides link HERE: https://drive.google.com/open?id=1KYc5cu7-AULH7d6IPAUpk5kFV7vjcpau
+  </li>
+</ul>
+
+### Music Theory Visuals in Excel & Pixelmator:
 
 Detailed 35-Mode Music Theory Visual in Microsoft Excel:
   <ul>
   <li>Google Sheets link HERE: https://drive.google.com/file/d/1PN6T3c5M-lutfnVYIk9-b2sqMD-oOg_-/view?usp=sharing </li>
   </ul>
 
-Photo Edit & Visual Glitch Manipulation w/ 35mm film, FX Photo Studio, iMovie, .gif Converter:
+Relative Interval Names Across All 15 Scales:
+<ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=1mogwuYA_ALuJ4vxJmqudg48KmDGDGLBV
+  </li>
+  </ul>
+  
+Roman Numerals Across Four Scale Groups:
+<ul>
+  <li>
+    Google Drive Link HERE: https://drive.google.com/open?id=1alwvOXEvCm4o-2zz5kpBuF2IGV7rfYLG
+  </li>
+</ul>
+  
+Diatonic Non-Tension Modal Chords:
+<ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=109LcY6kgnS9hk_t6oFEPlmrlMCvgewtB
+    </li>
+  </ul>
+  
+True Seventh Chords:
+<ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=1A5NEr4e40QzDWYtamqffgk0zErthQ6gG
+  </li>
+  </ul>
+  
+Color-Coordinated Octave Path Mapping Graphic:
+<ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=109LcY6kgnS9hk_t6oFEPlmrlMCvgewtB
+  </li>
+  </ul>
+  
+### Visual Media
+
+Promotional Video PR Snippet Edited by Myself (Filmed by Friendly Human, Edited in House by Specialdocs):
   <ul>
-  <li>Google Drive link HERE: https://drive.google.com/file/d/1wzXIrOOgKX2lQ4Ehg8f1EP3pYFP08Zpj/view?usp=sharing </li>
+  <li>Youtube link HERE: https://www.youtube.com/watch?v=Uln7wJ6VzTY </li>
+  </ul>
+  
+Chitricycles Stock Photo Design:
+  <ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=1JDhheF3Y1xs5RnYmQhXKGj6ONoUU_opu
+  </li>
+  </ul>
+
+Dream City Times Square Stock Photo Design:
+  <ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=1nhDAl853SMRIn9Z2EgNsS36LMk9uCr3A
+  </li>
+  </ul>
+  
+North of Chicago Stock Photo Design:
+  <ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=10eeNoayrneBMZf6bOcTijnAc45wUwifT
+  </li>
+  </ul>
+  
+Serpent #3,333 Poster Design in Pixelmator:
+<ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=1cHdjmgnnKa-0n_yqfiH_xeQfYmAm57bO
+  </li>
+  </ul>
+  
+.gif Visual Effects Edit:
+<ul>
+  <li>
+    Finalized version HERE: https://drive.google.com/open?id=1UU6FFuNMlpQLXhlE3y8uLdMdgKOLfHSl
+    Original photo HERE: https://drive.google.com/open?id=1giPHnZePF4-MSUM0lBGo6eY-ZGi9XWkF
+    Edited photo HERE: https://drive.google.com/open?id=1ZQcLVPLk92FFVPPpQybR3LfNRujz3DLL
+  </li>
+  </ul>
+  
+Chidori Birds - Arbre Catalpa Album Cover:
+  <ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=1i2ZbvUZ8BbpbnovspasbsprfW65qwwrT
+  </li>
   </ul>
 
 Collage Made for The Sick Muse Release Party @ Legendary Pilsen DIY-Space "The Dojo":
   <ul>
   <li>Google Drive link HERE: https://drive.google.com/file/d/1RonKqFzQw3Yc8j1tJdPx5f4LaKE9WscO/view?usp=sharing </li>
   </ul>
-
+  
 Vaporwave Photo Edit w/ Cascading Korean Lettering in FX Photo Studio, Pixelmator:
   <ul>
   <li>Google Drive link HERE: https://drive.google.com/file/d/17Rx7pLAUrHpmec3Jo5kmhtZYSWRZ9B3P/view?usp=sharing </li>
   </ul>
+  
 
-Relative Note Names Across 15-Tonal Centers Data Visual in Microsoft Excel:
-  <ul>
-  <li>Google Drive link HERE: https://drive.google.com/file/d/1mogwuYA_ALuJ4vxJmqudg48KmDGDGLBV/view?usp=sharing </li>
-  </ul>
-
-
-
-
-
-
+  
 
 
 
