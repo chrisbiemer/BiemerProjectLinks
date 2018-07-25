@@ -2,39 +2,50 @@
 
 ### Python.py
 
-Polynomial Builder, Up to 2nd Order Derivative Calculator, & Indefinite/Definite Integral Calculator: https://github.com/chrisbmwchi/derivativeIntegralCalculator
+Polynomial Builder, Up to 2nd Order Derivative Calculator, & Indefinite/Definite Integral Calculator: 
+View the code HERE: https://github.com/chrisbmwchi/derivativeIntegralCalculator
+Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/9c6f96bf19424f46b21d7b6903b1bfd0/
 
 Multiplicable Matrices Builder and Product Matrix Calculator:
-https://github.com/chrisbmwchi/matrixMultiplication
+View the code HERE: https://github.com/chrisbmwchi/matrixMultiplication
+Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/bb5d21193ab244fbbb28800dd42d1d39/
+
+Prime Finder and Prime Factorization Calculator:
+View the code HERE: https://github.com/chrisbmwchi/primeFactorSorting
+Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/8b0fb821398b4147b62f7b9a9b9d7cb1/
 
 1st Python Project: Hangman.py from 2014:
-https://github.com/chrisbmwchi/Hangman-Python-2014
+View the code HERE: https://github.com/chrisbmwchi/Hangman-Python-2014
 
 ### Javascript.js
 
 Hokusai Memory Game Built w/ React.js, jQuery, Bootstrap: 
-https://powerful-river-43014.herokuapp.com/
+(slow loading time with the free Heroku host)
+Live link HERE: https://powerful-river-43014.herokuapp.com/
+View the code HERE: 
 
 Modern Art Movements Trivia Game Built w/ jQuery, Bootstrap, JS Timers:
-https://chrisbmwchi.github.io/triviaGame/
+Live link HERE: https://chrisbmwchi.github.io/triviaGame/
+View the code HERE:
 
 GameOn: Team-Built Full-Stack Web Application for Setting Up Local Pickup Sports Games
-https://game-on-listing.herokuapp.com/index
+Live link HERE: https://game-on-listing.herokuapp.com/index
+View the code HERE:
 
 CrayonBox: Local Event Finder Application Built With Eventbrite, Leaflet, Zomato & APIXU:
-WEBSITE: https://group1-project1.github.io/CrayonBox/ 
-POWERPOINT: https://docs.google.com/presentation/d/1Ig_BO1POaCZyc9tmoBpqw5L6xadfkJVO1Qg_2vA1DoM/edit?usp=sharing
+Live link HERE: https://group1-project1.github.io/CrayonBox/ 
+Presentation HERE: https://docs.google.com/presentation/d/1Ig_BO1POaCZyc9tmoBpqw5L6xadfkJVO1Qg_2vA1DoM/edit?usp=sharing
+View the code HERE:
 
-Video Walkthrough for a Node.js Command-Line-Based Storefront Application:
-https://drive.google.com/file/d/1mAGaZuyvLrAkQIz3GA3ropTyCVaUkUnY/view?usp=sharing
+*Other Javascript projects involving Node.js, the inquirer, Handlebars.js, React.js, jQuery and Bootstrap available on my Github profile page. Feel free to look through my top repositories.*
 
 ### Database Production & Data Analysis
 
 Internet Availability and Art Museum Attendance (Undergrad Econometrics Research):
-POWERPOINT: https://docs.google.com/presentation/d/19e_cCzXAS1lSL0S1bZqyBGiGvSshe_5nSfdIyVHANPk/edit?usp=sharing
-RESEARCH PAPER: https://docs.google.com/document/d/1P-F5GCiqa_cC6VALEJ0gjdQOBMeADEgAPbvQzVBSBPQ/edit?usp=sharing
+Powerpoint presentation available HERE: https://docs.google.com/presentation/d/19e_cCzXAS1lSL0S1bZqyBGiGvSshe_5nSfdIyVHANPk/edit?usp=sharing
+Research paper available HERE: https://docs.google.com/document/d/1P-F5GCiqa_cC6VALEJ0gjdQOBMeADEgAPbvQzVBSBPQ/edit?usp=sharing
 
-Custom Entity Relationship Diagrams for Forums, Messaging, Purchasing and Networking:
+Custom Entity Relationship Diagrams for Forums, Messaging, Purchasing, Banking and Virtual Networking:
 https://drive.google.com/drive/folders/19hv703yB7vVhLiQJKjyutghx44SdalHk?usp=sharing
 
 DUOSProject: Data Files including My Worksheets & My Timesheets in Case of Audit:
@@ -52,10 +63,10 @@ https://public.tableau.com/profile/chris.biemer#!/vizhome/10orGreater/zipxconc
 Copywriting Sample on the Guttmacher Institute:
 https://drive.google.com/file/d/167fGQ83rn2F_A2deBPYFgaYdWgnwUow0/view?usp=sharing
 
-Industry Clusters in Austin, Texas (One Paper Out of a Series I Was Involved In):
+Industry Clusters in Austin, Texas (One paper out of a series I was involved in):
 https://drive.google.com/file/d/1uNZSmaOU3JqLI8NDzz40Vvg2bLsiD-Mr/view?usp=sharing
 
-The Seafoam at the Crest of a Wave (Original Poetry Book in Bound Format):
+The Seafoam at the Crest of a Wave (Original poetry book in to-be-bound format):
 https://drive.google.com/file/d/15WgykszV_-iTZ7aGQRZmSpMrzOboNMt8/view?usp=sharing
 
 ### Additional Media
