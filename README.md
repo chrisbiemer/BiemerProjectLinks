@@ -1,10 +1,10 @@
 # projectLinkDump
 
-### RESUME
+### Resume
 
 <ul>
   <li>
-    
+    View my most updated resume HERE: https://drive.google.com/file/d/1-4y8Od8AFh9MuqDMc4dj6qjpLMi73FF5/view?usp=sharing
   </li>
   </ul>
 
