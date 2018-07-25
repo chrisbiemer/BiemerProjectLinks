@@ -7,10 +7,8 @@ Polynomial Builder, Up to 2nd Order Derivative Calculator, & Indefinite/Definite
 Multiplicable Matrices Builder and Product Matrix Calculator:
 https://github.com/chrisbmwchi/matrixMultiplication
 
-Regression Modelling for Physician Vetting Survey @ Specialdocs
-https://drive.google.com/file/d/1b0COcqmRkpXYtIpu3i1pV22KlV4VkKCR/view?usp=sharing
-w/ Powerpoint for Explanation of Physician Success Indicators:
-https://drive.google.com/file/d/1W6nx1kESM8-JvzK79imZnMaZcAkrjZ_i/view?usp=sharing
+1st Python Project: Hangman.py from 2014:
+https://github.com/chrisbmwchi/Hangman-Python-2014
 
 ### Javascript.js
 
@@ -42,13 +40,10 @@ https://drive.google.com/drive/folders/19hv703yB7vVhLiQJKjyutghx44SdalHk?usp=sha
 DUOSProject: Data Files including My Worksheets & My Timesheets in Case of Audit:
 https://drive.google.com/drive/folders/19qLSE7ArfpQTsCPCOuk-h77TNJxN__-r?usp=sharing
 
-Customized Digital Marketing Effectiveness Report (Screenshot due to NCA/NDA):
-https://drive.google.com/file/d/1taGFRg1voB06e8tQnqDmFdbAtahO_0Jv/view?usp=sharing
-
 Machine Learning Final BSAD343 Project to Predict Credit Score w/ Tableau, R, Watson:
 https://drive.google.com/file/d/1lnMr26HzFYjdJKgrN4VWdhC3f63U33LP/view?usp=sharing
 
-Tableau Data Visuals for Assisting In-Field Sales Aimed @ a Target Physician turned Client:
+Tableau Data Visuals for Assisting In-Field Sales Aimed @ a Target Client:
 (TABS: Patient Concentration vs. Zipcode, Zipcode Median Household Income vs. Zipcode)
 https://public.tableau.com/profile/chris.biemer#!/vizhome/10orGreater/zipxconc
 
