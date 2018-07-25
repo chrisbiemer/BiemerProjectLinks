@@ -1,6 +1,6 @@
 # BiemerProjectLinks
 
-*This text contains a limited view of the work, school and personal projects that I have been involved in up to this date. Click on any of the links to learn more. If you'd like to view more work of a certain type, send inquiries to chrisbiemer@ymail.com. Thank you for looking around!
+*This text contains a limited view of the work, school and personal projects that I have been involved in up to this date. Click on any of the links to learn more. If you'd like to view more work of a certain type, send inquiries to chrisbiemer@ymail.com. Thank you for looking around!*
 
 ### Resume
 
