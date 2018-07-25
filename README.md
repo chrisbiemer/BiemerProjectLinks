@@ -2,20 +2,26 @@
 
 ### Python.py
 
-Polynomial Builder, Up to 2nd Order Derivative Calculator, & Indefinite/Definite Integral Calculator: 
-View the code HERE: https://github.com/chrisbmwchi/derivativeIntegralCalculator
-Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/9c6f96bf19424f46b21d7b6903b1bfd0/
+Polynomial Builder, Up to 2nd Order Derivative Calculator, & Indefinite/Definite Integral Calculator:
+<ul>
+  <li>View the code HERE: https://github.com/chrisbmwchi/derivativeIntegralCalculator</li>
+  <li>Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/9c6f96bf19424f46b21d7b6903b1bfd0/</li>
+  </ul>
 
 Multiplicable Matrices Builder and Product Matrix Calculator:
-View the code HERE: https://github.com/chrisbmwchi/matrixMultiplication
-Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/bb5d21193ab244fbbb28800dd42d1d39/
+<ul>
+  <li>View the code HERE: https://github.com/chrisbmwchi/matrixMultiplication </li>
+  <li>Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/bb5d21193ab244fbbb28800dd42d1d39/</li>
+  </ul>
 
 Prime Finder and Prime Factorization Calculator:
-View the code HERE: https://github.com/chrisbmwchi/primeFactorSorting
-Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/8b0fb821398b4147b62f7b9a9b9d7cb1/
+<ul>
+  <li>View the code HERE: https://github.com/chrisbmwchi/primeFactorSorting </li>
+  <li>Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/8b0fb821398b4147b62f7b9a9b9d7cb1/ </ul>
 
 1st Python Project: Hangman.py from 2014:
-View the code HERE: https://github.com/chrisbmwchi/Hangman-Python-2014
+<ul>
+  <li>View the code HERE: https://github.com/chrisbmwchi/Hangman-Python-2014 </li>
 
 ### Javascript.js
 
