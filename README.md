@@ -6,7 +6,7 @@
 
 <ul>
   <li>
-   Most Recent Version HERE: https://drive.google.com/open?id=1uGZ5d9tvHnkyCu4xUG8E-IgXbQCX2MUj
+   Most Recent Version HERE: https://drive.google.com/file/d/1uGZ5d9tvHnkyCu4xUG8E-IgXbQCX2MUj/view?usp=sharing
   </li>
   </ul>
 
