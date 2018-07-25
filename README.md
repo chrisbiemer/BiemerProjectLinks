@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    Most recent version HERE: https://drive.google.com/file/d/1-4y8Od8AFh9MuqDMc4dj6qjpLMi73FF5/view?usp=sharing
+    https://drive.google.com/open?id=1-4y8Od8AFh9MuqDMc4dj6qjpLMi73FF5
   </li>
   </ul>
 
