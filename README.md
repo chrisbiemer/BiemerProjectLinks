@@ -196,6 +196,13 @@ Promotional Video PR Snippet Edited by Myself (Filmed by Friendly Human, Edited 
   <li>Youtube link HERE: https://www.youtube.com/watch?v=Uln7wJ6VzTY </li>
   </ul>
   
+"No Room For Malice" Graphic Design Demo:
+<ul>
+  <li>
+    Google Drive link HERE: https://drive.google.com/open?id=1eCgHz20AITl880pAvm_d95N7TjrkyJAZ
+  </li>
+  </ul>
+  
 Chitricycles Stock Photo Design:
   <ul>
   <li>
