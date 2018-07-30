@@ -235,7 +235,11 @@ Serpent #3,333 Poster Design in Pixelmator:
 <ul>
   <li>
     Finalized version HERE: https://drive.google.com/open?id=1UU6FFuNMlpQLXhlE3y8uLdMdgKOLfHSl
+  </li>
+  <li>
     Original photo HERE: https://drive.google.com/open?id=1giPHnZePF4-MSUM0lBGo6eY-ZGi9XWkF
+  </li>
+  <li>
     Edited photo HERE: https://drive.google.com/open?id=1ZQcLVPLk92FFVPPpQybR3LfNRujz3DLL
   </li>
   </ul>
