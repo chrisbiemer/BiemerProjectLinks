@@ -26,13 +26,13 @@ Multiplicable Matrices Builder and Product Matrix Calculator:
 
 Prime Finder and Prime Factorization Calculator:
 <ul>
-  <li>View the code HERE: https://github.com/chrisbmwchi/primeFactorSorting </li>
+  <li>View the code HERE: https://github.com/chrisbiemer/primeFactorSorting </li>
   <li>Run the calculator HERE: https://www.pythonanywhere.com/user/chrisbmwchi/shares/8b0fb821398b4147b62f7b9a9b9d7cb1/ </li>
   </ul>
 
 1st Python Project: Hangman.py from 2014:
 <ul>
-  <li>View the code HERE: https://github.com/chrisbmwchi/Hangman-Python-2014 </li>
+  <li>View the code HERE: https://github.com/chrisbiemer/Hangman-Python-2014 </li>
   </ul>
   
 
@@ -42,13 +42,13 @@ Hokusai Memory Game Built w/ React.js, jQuery, Bootstrap:
 (slow loading time with the free Heroku host)
 <ul>
   <li>Live link HERE: https://powerful-river-43014.herokuapp.com/</li>
-  <li>View the code HERE: https://github.com/chrisbmwchi/reactHokusaiMemory </li>
+  <li>View the code HERE: https://github.com/chrisbiemer/reactHokusaiMemory </li>
   </ul>
 
 Modern Art Movements Trivia Game Built w/ jQuery, Bootstrap, JS Timers:
 <ul>
-  <li>Live link HERE: https://chrisbmwchi.github.io/triviaGame/</li>
-  <li>View the code HERE: https://github.com/chrisbmwchi/triviaGame</li>
+  <li>Live link HERE: https://chrisbiemer.github.io/triviaGame/</li>
+  <li>View the code HERE: https://github.com/chrisbiemer/triviaGame</li>
   </ul
 
 GameOn: Team-Built Full-Stack Web Application for Setting Up Local Pickup Sports Games
